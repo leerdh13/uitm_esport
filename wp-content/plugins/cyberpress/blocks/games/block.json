@@ -1,0 +1,9 @@
+{
+  "name": "cyberpress/games",
+  "category": "cyberpress",
+  "supports": {
+    "html": false,
+    "className": false,
+    "align": ["wide", "full"]
+  }
+}

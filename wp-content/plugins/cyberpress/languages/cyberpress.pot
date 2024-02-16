@@ -1,0 +1,2692 @@
+# Copyright (C) 2024 nK
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: CyberPress 2.5.4\n"
+"Report-Msgid-Bugs-To: https://github.com/nk-o/cyberpress/issues\n"
+"Last-Translator: nK\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-02T19:22:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: cyberpress\n"
+
+#. Plugin Name of the plugin
+#: class-cyberpress.php:168
+#: classes/class-settings.php:90
+#: classes/class-settings.php:91
+msgid "CyberPress"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin for Electronic Sports matches and tournaments"
+msgstr ""
+
+#. Author of the plugin
+msgid "nK"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nkdev.info"
+msgstr ""
+
+#: blocks/matches/block.php:155
+#: classes/class-admin.php:780
+#: classes/class-posts-settings.php:568
+msgid "Choose stage of tournament"
+msgstr ""
+
+#: classes/class-admin.php:130
+msgctxt "Post Type General Name"
+msgid "Games"
+msgstr ""
+
+#: classes/class-admin.php:131
+msgctxt "Post Type Singular Name"
+msgid "Game"
+msgstr ""
+
+#: classes/class-admin.php:132
+#: classes/class-admin.php:708
+#: classes/class-posts-settings.php:141
+#: classes/class-posts-settings.php:146
+#: classes/class-settings.php:128
+#: classes/class-settings.php:129
+#: classes/class-settings.php:184
+#: templates/players/single-parts/games-stats.php:18
+msgid "Games"
+msgstr ""
+
+#: classes/class-admin.php:133
+msgid "Parent Game"
+msgstr ""
+
+#: classes/class-admin.php:134
+msgid "All Games"
+msgstr ""
+
+#: classes/class-admin.php:135
+msgid "View Game"
+msgstr ""
+
+#: classes/class-admin.php:136
+msgid "Add New Game"
+msgstr ""
+
+#: classes/class-admin.php:137
+#: classes/class-admin.php:188
+#: classes/class-admin.php:240
+#: classes/class-admin.php:296
+#: classes/class-admin.php:343
+#: classes/class-posts-settings.php:690
+msgid "Add New"
+msgstr ""
+
+#: classes/class-admin.php:138
+msgid "Edit Game"
+msgstr ""
+
+#: classes/class-admin.php:139
+msgid "Update Game"
+msgstr ""
+
+#: classes/class-admin.php:140
+msgid "Search Games"
+msgstr ""
+
+#: classes/class-admin.php:141
+#: classes/class-admin.php:192
+#: classes/class-admin.php:244
+#: classes/class-admin.php:300
+#: classes/class-admin.php:347
+msgid "Not Found"
+msgstr ""
+
+#: classes/class-admin.php:142
+#: classes/class-admin.php:193
+#: classes/class-admin.php:245
+#: classes/class-admin.php:301
+#: classes/class-admin.php:348
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/class-admin.php:181
+msgctxt "Post Type General Name"
+msgid "Players"
+msgstr ""
+
+#: classes/class-admin.php:182
+msgctxt "Post Type Singular Name"
+msgid "Player"
+msgstr ""
+
+#: classes/class-admin.php:183
+#: classes/class-admin.php:711
+#: classes/class-posts-settings.php:276
+#: classes/class-posts-settings.php:380
+#: classes/class-settings.php:114
+#: classes/class-settings.php:115
+#: classes/class-settings.php:196
+#: templates/teams/single-parts/players.php:19
+msgid "Players"
+msgstr ""
+
+#: classes/class-admin.php:184
+msgid "Parent Player"
+msgstr ""
+
+#: classes/class-admin.php:185
+msgid "All Players"
+msgstr ""
+
+#: classes/class-admin.php:186
+msgid "View Player"
+msgstr ""
+
+#: classes/class-admin.php:187
+msgid "Add New Player"
+msgstr ""
+
+#: classes/class-admin.php:189
+msgid "Edit Player"
+msgstr ""
+
+#: classes/class-admin.php:190
+msgid "Update Player"
+msgstr ""
+
+#: classes/class-admin.php:191
+msgid "Search Players"
+msgstr ""
+
+#: classes/class-admin.php:194
+msgid "Your Photo"
+msgstr ""
+
+#: classes/class-admin.php:195
+msgid "Set Your Photo"
+msgstr ""
+
+#: classes/class-admin.php:196
+msgid "Remove Your Photo"
+msgstr ""
+
+#: classes/class-admin.php:197
+msgid "Use as Your Photo"
+msgstr ""
+
+#: classes/class-admin.php:233
+msgctxt "Post Type General Name"
+msgid "Teams"
+msgstr ""
+
+#: classes/class-admin.php:234
+msgctxt "Post Type Singular Name"
+msgid "Team"
+msgstr ""
+
+#: classes/class-admin.php:235
+#: classes/class-admin.php:714
+#: classes/class-posts-settings.php:187
+#: classes/class-posts-settings.php:192
+#: classes/class-posts-settings.php:355
+#: classes/class-settings.php:121
+#: classes/class-settings.php:122
+#: classes/class-settings.php:200
+#: templates/players/single-parts/teams.php:20
+msgid "Teams"
+msgstr ""
+
+#: classes/class-admin.php:236
+msgid "Parent Team"
+msgstr ""
+
+#: classes/class-admin.php:237
+msgid "All Teams"
+msgstr ""
+
+#: classes/class-admin.php:238
+msgid "View Team"
+msgstr ""
+
+#: classes/class-admin.php:239
+msgid "Add New Team"
+msgstr ""
+
+#: classes/class-admin.php:241
+msgid "Edit Team"
+msgstr ""
+
+#: classes/class-admin.php:242
+msgid "Update Team"
+msgstr ""
+
+#: classes/class-admin.php:243
+msgid "Search Teams"
+msgstr ""
+
+#: classes/class-admin.php:246
+msgid "Team Logo"
+msgstr ""
+
+#: classes/class-admin.php:247
+msgid "Set Team Logo"
+msgstr ""
+
+#: classes/class-admin.php:248
+msgid "Remove Team Logo"
+msgstr ""
+
+#: classes/class-admin.php:249
+msgid "Use as Team Logo"
+msgstr ""
+
+#: classes/class-admin.php:289
+msgctxt "Post Type General Name"
+msgid "Matches"
+msgstr ""
+
+#: classes/class-admin.php:290
+msgctxt "Post Type Singular Name"
+msgid "Match"
+msgstr ""
+
+#: classes/class-admin.php:291
+#: classes/class-admin.php:717
+#: classes/class-settings.php:100
+#: classes/class-settings.php:101
+#: classes/class-settings.php:188
+#: templates/tournaments/single-parts/matches.php:39
+msgid "Matches"
+msgstr ""
+
+#: classes/class-admin.php:292
+msgid "Parent Match"
+msgstr ""
+
+#: classes/class-admin.php:293
+msgid "All Matches"
+msgstr ""
+
+#: classes/class-admin.php:294
+msgid "View Match"
+msgstr ""
+
+#: classes/class-admin.php:295
+msgid "Add New Match"
+msgstr ""
+
+#: classes/class-admin.php:297
+msgid "Edit Match"
+msgstr ""
+
+#: classes/class-admin.php:298
+msgid "Update Match"
+msgstr ""
+
+#: classes/class-admin.php:299
+msgid "Search Matches"
+msgstr ""
+
+#: classes/class-admin.php:336
+msgctxt "Post Type General Name"
+msgid "Tournaments"
+msgstr ""
+
+#: classes/class-admin.php:337
+msgctxt "Post Type Singular Name"
+msgid "Tournament"
+msgstr ""
+
+#: classes/class-admin.php:338
+#: classes/class-admin.php:720
+#: classes/class-settings.php:107
+#: classes/class-settings.php:108
+#: classes/class-settings.php:192
+msgid "Tournaments"
+msgstr ""
+
+#: classes/class-admin.php:339
+msgid "Parent Tournament"
+msgstr ""
+
+#: classes/class-admin.php:340
+msgid "All Tournaments"
+msgstr ""
+
+#: classes/class-admin.php:341
+msgid "View Tournament"
+msgstr ""
+
+#: classes/class-admin.php:342
+msgid "Add New Tournament"
+msgstr ""
+
+#: classes/class-admin.php:344
+msgid "Edit Tournament"
+msgstr ""
+
+#: classes/class-admin.php:345
+msgid "Update Tournaments"
+msgstr ""
+
+#: classes/class-admin.php:346
+msgid "Search Tournaments"
+msgstr ""
+
+#: classes/class-admin.php:448
+msgid "Thumbnail"
+msgstr ""
+
+#: classes/class-admin.php:680
+msgid "Enter nickname here"
+msgstr ""
+
+#: classes/class-admin.php:683
+msgid "Enter the name of the team"
+msgstr ""
+
+#: classes/class-admin.php:686
+msgid "Enter the name of the match"
+msgstr ""
+
+#: classes/class-admin.php:689
+msgid "Enter the name of the tournament"
+msgstr ""
+
+#: classes/class-player-api.php:57
+#: classes/class-posts-settings.php:76
+msgid "Male"
+msgstr ""
+
+#: classes/class-player-api.php:59
+#: classes/class-posts-settings.php:77
+msgid "Female"
+msgstr ""
+
+#: classes/class-player-api.php:236
+msgid "To the present"
+msgstr ""
+
+#: classes/class-posts-settings.php:47
+#: classes/class-posts-settings.php:96
+#: classes/class-posts-settings.php:253
+msgid "Choose your country"
+msgstr ""
+
+#: classes/class-posts-settings.php:66
+msgid "Personal Information"
+msgstr ""
+
+#: classes/class-posts-settings.php:69
+#: classes/class-posts-settings.php:246
+#: classes/class-posts-settings.php:480
+msgid "Base"
+msgstr ""
+
+#: classes/class-posts-settings.php:71
+msgid "Full Name:"
+msgstr ""
+
+#: classes/class-posts-settings.php:72
+msgid "Gender:"
+msgstr ""
+
+#: classes/class-posts-settings.php:75
+#: classes/class-posts-settings.php:82
+msgid "Choose your gender"
+msgstr ""
+
+#: classes/class-posts-settings.php:87
+msgid "Date of Birth:"
+msgstr ""
+
+#: classes/class-posts-settings.php:91
+msgid "Country:"
+msgstr ""
+
+#: classes/class-posts-settings.php:104
+#: classes/class-posts-settings.php:307
+#: templates/players/single-parts/social.php:18
+#: templates/teams/single-parts/social.php:18
+msgid "Social"
+msgstr ""
+
+#: classes/class-posts-settings.php:106
+#: classes/class-posts-settings.php:309
+msgid "Site Url:"
+msgstr ""
+
+#: classes/class-posts-settings.php:107
+#: classes/class-posts-settings.php:133
+#: classes/class-posts-settings.php:310
+#: classes/class-posts-settings.php:336
+msgid "https://..."
+msgstr ""
+
+#: classes/class-posts-settings.php:108
+#: classes/class-posts-settings.php:311
+msgid "Twitch Channel:"
+msgstr ""
+
+#: classes/class-posts-settings.php:109
+#: classes/class-posts-settings.php:312
+msgid "lirik"
+msgstr ""
+
+#: classes/class-posts-settings.php:111
+#: classes/class-posts-settings.php:314
+msgid "YouTube Channel:"
+msgstr ""
+
+#: classes/class-posts-settings.php:112
+#: classes/class-posts-settings.php:315
+msgid "saqibaz"
+msgstr ""
+
+#: classes/class-posts-settings.php:114
+#: classes/class-posts-settings.php:317
+msgid "Social Links:"
+msgstr ""
+
+#: classes/class-posts-settings.php:118
+#: classes/class-posts-settings.php:321
+msgid "Social Links"
+msgstr ""
+
+#: classes/class-posts-settings.php:119
+#: classes/class-posts-settings.php:322
+msgid "Social Link"
+msgstr ""
+
+#: classes/class-posts-settings.php:128
+#: classes/class-posts-settings.php:331
+#: classes/class-posts-settings.php:849
+msgid "Choose Social Icons"
+msgstr ""
+
+#: classes/class-posts-settings.php:143
+msgid "Games Stats:"
+msgstr ""
+
+#: classes/class-posts-settings.php:147
+#: classes/class-posts-settings.php:701
+#: templates/players/single-parts/games-stats.php:26
+msgid "Game"
+msgstr ""
+
+#: classes/class-posts-settings.php:157
+#: classes/class-posts-settings.php:269
+#: classes/class-posts-settings.php:433
+#: classes/class-posts-settings.php:537
+msgid "Choose game"
+msgstr ""
+
+#: classes/class-posts-settings.php:162
+#: templates/players/single-parts/games-stats.php:27
+#: templates/teams/single-parts/players.php:27
+msgid "Nickname"
+msgstr ""
+
+#: classes/class-posts-settings.php:164
+msgid "Wins:"
+msgstr ""
+
+#: classes/class-posts-settings.php:165
+msgid "Number Of Wins"
+msgstr ""
+
+#: classes/class-posts-settings.php:170
+msgid "Draws:"
+msgstr ""
+
+#: classes/class-posts-settings.php:171
+msgid "Number Of Draws"
+msgstr ""
+
+#: classes/class-posts-settings.php:176
+msgid "Losses:"
+msgstr ""
+
+#: classes/class-posts-settings.php:177
+msgid "Number Of Losses"
+msgstr ""
+
+#: classes/class-posts-settings.php:189
+#: classes/class-posts-settings.php:350
+msgid "Teams:"
+msgstr ""
+
+#: classes/class-posts-settings.php:193
+#: classes/class-posts-settings.php:356
+#: classes/class-posts-settings.php:661
+msgid "Team"
+msgstr ""
+
+#: classes/class-posts-settings.php:198
+#: classes/class-posts-settings.php:361
+msgid "Team:"
+msgstr ""
+
+#: classes/class-posts-settings.php:203
+#: classes/class-posts-settings.php:367
+msgid "Choose team"
+msgstr ""
+
+#: classes/class-posts-settings.php:206
+msgid "Start date of participation:"
+msgstr ""
+
+#: classes/class-posts-settings.php:210
+msgid "End date of participation:"
+msgstr ""
+
+#: classes/class-posts-settings.php:220
+msgid "Child Teams"
+msgstr ""
+
+#: classes/class-posts-settings.php:233
+msgid "After creating main team, you can add child teams"
+msgstr ""
+
+#: classes/class-posts-settings.php:237
+msgid "Section Description"
+msgstr ""
+
+#: classes/class-posts-settings.php:243
+msgid "Team Information"
+msgstr ""
+
+#: classes/class-posts-settings.php:248
+msgid "Country of Foundation:"
+msgstr ""
+
+#: classes/class-posts-settings.php:260
+msgid "Date of Foundation:"
+msgstr ""
+
+#: classes/class-posts-settings.php:264
+msgid "Game:"
+msgstr ""
+
+#: classes/class-posts-settings.php:273
+#: classes/class-posts-settings.php:377
+#: templates/matches/loop/loop.php:78
+#: templates/matches/loop/loop.php:130
+#: templates/matches/single-parts/participants.php:56
+#: templates/matches/single-parts/participants.php:102
+msgid "Players:"
+msgstr ""
+
+#: classes/class-posts-settings.php:277
+#: classes/class-posts-settings.php:381
+msgid "Player"
+msgstr ""
+
+#: classes/class-posts-settings.php:282
+msgid "Player:"
+msgstr ""
+
+#: classes/class-posts-settings.php:287
+#: classes/class-posts-settings.php:391
+msgid "Choose player"
+msgstr ""
+
+#: classes/class-posts-settings.php:291
+msgid "Role:"
+msgstr ""
+
+#: classes/class-posts-settings.php:297
+msgid "Choose player role"
+msgstr ""
+
+#: classes/class-posts-settings.php:345
+#: classes/class-posts-settings.php:477
+msgid "Match Information"
+msgstr ""
+
+#: classes/class-posts-settings.php:348
+msgid "Participants"
+msgstr ""
+
+#: classes/class-posts-settings.php:371
+msgid "Match Points:"
+msgstr ""
+
+#: classes/class-posts-settings.php:372
+msgid "Enter Match Points"
+msgstr ""
+
+#: classes/class-posts-settings.php:402
+#: classes/class-posts-settings.php:507
+msgid "Media"
+msgstr ""
+
+#: classes/class-posts-settings.php:404
+#: classes/class-posts-settings.php:509
+msgid "Srceenshots:"
+msgstr ""
+
+#: classes/class-posts-settings.php:406
+#: classes/class-posts-settings.php:511
+msgid "Videos:"
+msgstr ""
+
+#: classes/class-posts-settings.php:409
+#: classes/class-posts-settings.php:514
+#: templates/matches/single-parts/videos.php:18
+#: templates/tournaments/single-parts/videos.php:18
+msgid "Videos"
+msgstr ""
+
+#: classes/class-posts-settings.php:410
+#: classes/class-posts-settings.php:515
+msgid "Video"
+msgstr ""
+
+#: classes/class-posts-settings.php:416
+#: classes/class-posts-settings.php:521
+msgid "Enter YouTube/Vimeo/Twitch Video URL"
+msgstr ""
+
+#: classes/class-posts-settings.php:422
+msgid "Match Game"
+msgstr ""
+
+#: classes/class-posts-settings.php:438
+msgid "Match Time"
+msgstr ""
+
+#: classes/class-posts-settings.php:444
+msgid "Start:"
+msgstr ""
+
+#: classes/class-posts-settings.php:445
+msgid "End:"
+msgstr ""
+
+#: classes/class-posts-settings.php:449
+msgid "Tournament"
+msgstr ""
+
+#: classes/class-posts-settings.php:460
+msgid "Choose Tournament"
+msgstr ""
+
+#: classes/class-posts-settings.php:466
+msgid "Tournament Stage"
+msgstr ""
+
+#: classes/class-posts-settings.php:482
+msgid "Organizer:"
+msgstr ""
+
+#: classes/class-posts-settings.php:483
+msgid "Enter the name of organizer"
+msgstr ""
+
+#: classes/class-posts-settings.php:485
+msgid "Type:"
+msgstr ""
+
+#: classes/class-posts-settings.php:486
+msgid "Enter Type of Tournament"
+msgstr ""
+
+#: classes/class-posts-settings.php:488
+msgid "Total Prize Pool"
+msgstr ""
+
+#: classes/class-posts-settings.php:489
+msgid "Enter Total Prize Pool"
+msgstr ""
+
+#: classes/class-posts-settings.php:491
+msgid "Tournament Stages:"
+msgstr ""
+
+#: classes/class-posts-settings.php:494
+msgid "Stages"
+msgstr ""
+
+#: classes/class-posts-settings.php:495
+#: classes/class-posts-settings.php:500
+msgid "Stage"
+msgstr ""
+
+#: classes/class-posts-settings.php:501
+msgid "Enter Name of Stage"
+msgstr ""
+
+#: classes/class-posts-settings.php:527
+msgid "Tournament Game"
+msgstr ""
+
+#: classes/class-posts-settings.php:543
+msgid "Tournament Date"
+msgstr ""
+
+#: classes/class-posts-settings.php:549
+msgid "Start date:"
+msgstr ""
+
+#: classes/class-posts-settings.php:552
+msgid "End date:"
+msgstr ""
+
+#: classes/class-posts-settings.php:695
+msgid "Child Team Title"
+msgstr ""
+
+#: classes/class-posts-settings.php:697
+msgid "Please enter title for new Child Team"
+msgstr ""
+
+#: classes/class-posts-settings.php:703
+msgid "Please select game"
+msgstr ""
+
+#: classes/class-posts-settings.php:711
+msgid "Add New Child Team"
+msgstr ""
+
+#: classes/class-posts-settings.php:781
+msgid "Choose"
+msgstr ""
+
+#: classes/class-posts-settings.php:850
+#: templates/players/single-parts/twitch.php:19
+#: templates/teams/single-parts/twitch.php:19
+#: vendor-plain/brand-svg-please/brand-svg-please.php:517
+msgid "Twitch"
+msgstr ""
+
+#: classes/class-posts-settings.php:851
+#: vendor-plain/brand-svg-please/brand-svg-please.php:534
+msgid "Vimeo"
+msgstr ""
+
+#: classes/class-posts-settings.php:852
+#: vendor-plain/brand-svg-please/brand-svg-please.php:574
+msgid "Youtube"
+msgstr ""
+
+#: classes/class-posts-settings.php:853
+#: vendor-plain/brand-svg-please/brand-svg-please.php:288
+msgid "Facebook"
+msgstr ""
+
+#: classes/class-posts-settings.php:854
+msgid "Google-plus"
+msgstr ""
+
+#: classes/class-posts-settings.php:855
+#: vendor-plain/brand-svg-please/brand-svg-please.php:518
+msgid "Twitter"
+msgstr ""
+
+#: classes/class-posts-settings.php:856
+#: vendor-plain/brand-svg-please/brand-svg-please.php:433
+msgid "Pinterest"
+msgstr ""
+
+#: classes/class-posts-settings.php:857
+#: vendor-plain/brand-svg-please/brand-svg-please.php:344
+msgid "Instagram"
+msgstr ""
+
+#: classes/class-posts-settings.php:858
+msgid "Linkedin"
+msgstr ""
+
+#: classes/class-posts-settings.php:859
+#: vendor-plain/brand-svg-please/brand-svg-please.php:206
+msgid "Behance"
+msgstr ""
+
+#: classes/class-posts-settings.php:860
+#: vendor-plain/brand-svg-please/brand-svg-please.php:412
+msgid "Odnoklassniki"
+msgstr ""
+
+#: classes/class-posts-settings.php:861
+#: vendor-plain/brand-svg-please/brand-svg-please.php:481
+msgid "Skype"
+msgstr ""
+
+#: classes/class-posts-settings.php:862
+#: vendor-plain/brand-svg-please/brand-svg-please.php:537
+msgid "VK"
+msgstr ""
+
+#: classes/class-posts-settings.php:863
+#: vendor-plain/brand-svg-please/brand-svg-please.php:495
+msgid "Steam"
+msgstr ""
+
+#: classes/class-posts-settings.php:864
+#: vendor-plain/brand-svg-please/brand-svg-please.php:208
+msgid "Bitbucket"
+msgstr ""
+
+#: classes/class-posts-settings.php:865
+#: vendor-plain/brand-svg-please/brand-svg-please.php:271
+msgid "Dropbox"
+msgstr ""
+
+#: classes/class-posts-settings.php:866
+#: vendor-plain/brand-svg-please/brand-svg-please.php:270
+msgid "Dribbble"
+msgstr ""
+
+#: classes/class-posts-settings.php:867
+msgid "Deviantart"
+msgstr ""
+
+#: classes/class-posts-settings.php:868
+#: vendor-plain/brand-svg-please/brand-svg-please.php:297
+msgid "Flickr"
+msgstr ""
+
+#: classes/class-posts-settings.php:869
+#: vendor-plain/brand-svg-please/brand-svg-please.php:304
+msgid "Foursquare"
+msgstr ""
+
+#: classes/class-posts-settings.php:870
+msgid "Github"
+msgstr ""
+
+#: classes/class-posts-settings.php:871
+#: vendor-plain/brand-svg-please/brand-svg-please.php:390
+msgid "Medium"
+msgstr ""
+
+#: classes/class-posts-settings.php:872
+#: vendor-plain/brand-svg-please/brand-svg-please.php:229
+#: vendor-plain/brand-svg-please/brand-svg-please.php:426
+msgid "PayPal"
+msgstr ""
+
+#: classes/class-posts-settings.php:873
+msgid "Reddit"
+msgstr ""
+
+#: classes/class-posts-settings.php:874
+#: vendor-plain/brand-svg-please/brand-svg-please.php:485
+msgid "SoundCloud"
+msgstr ""
+
+#: classes/class-posts-settings.php:875
+#: vendor-plain/brand-svg-please/brand-svg-please.php:482
+msgid "Slack"
+msgstr ""
+
+#: classes/class-posts-settings.php:876
+#: vendor-plain/brand-svg-please/brand-svg-please.php:516
+msgid "Tumblr"
+msgstr ""
+
+#: classes/class-posts-settings.php:877
+#: vendor-plain/brand-svg-please/brand-svg-please.php:560
+msgid "WordPress"
+msgstr ""
+
+#: classes/class-settings-api.php:509
+#: classes/class-settings-api.php:528
+msgid "Remove"
+msgstr ""
+
+#: classes/class-settings-api.php:514
+msgid "+ Add"
+msgstr ""
+
+#: classes/class-settings.php:135
+#: classes/class-settings.php:136
+msgid "Settings"
+msgstr ""
+
+#: classes/class-settings.php:180
+msgid "General"
+msgstr ""
+
+#: classes/class-settings.php:224
+msgid "Games Archive"
+msgstr ""
+
+#: classes/class-settings.php:234
+msgid "Players Archive"
+msgstr ""
+
+#: classes/class-settings.php:244
+msgid "Teams Archive"
+msgstr ""
+
+#: classes/class-settings.php:254
+msgid "Matches Archive"
+msgstr ""
+
+#: classes/class-settings.php:264
+msgid "Tournaments Archive"
+msgstr ""
+
+#: classes/class-settings.php:273
+msgid "There are no pages found on your site. You need to add pages to use it for archives of games, players, teams, matches, and tournaments."
+msgstr ""
+
+#: classes/class-settings.php:292
+#: classes/class-settings.php:328
+#: classes/class-settings.php:427
+#: classes/class-settings.php:468
+#: classes/class-settings.php:528
+msgid "Archive Columns"
+msgstr ""
+
+#: classes/class-settings.php:300
+msgid "Number of Games"
+msgstr ""
+
+#: classes/class-settings.php:307
+#: classes/class-settings.php:483
+#: classes/class-settings.php:543
+msgid "Archive Thumbnail Size"
+msgstr ""
+
+#: classes/class-settings.php:314
+msgid "Display Game Thumbnail"
+msgstr ""
+
+#: classes/class-settings.php:320
+msgid "Display Game Title"
+msgstr ""
+
+#: classes/class-settings.php:336
+msgid "Number of Matches"
+msgstr ""
+
+#: classes/class-settings.php:343
+msgid "Display Match Title"
+msgstr ""
+
+#: classes/class-settings.php:349
+msgid "Participants:"
+msgstr ""
+
+#: classes/class-settings.php:354
+#: classes/class-settings.php:407
+msgid "Display Match Start Date"
+msgstr ""
+
+#: classes/class-settings.php:360
+msgid "Display Match Points"
+msgstr ""
+
+#: classes/class-settings.php:366
+msgid "Display Team Logo"
+msgstr ""
+
+#: classes/class-settings.php:372
+msgid "Display Team Name"
+msgstr ""
+
+#: classes/class-settings.php:378
+msgid "Display Team Players"
+msgstr ""
+
+#: classes/class-settings.php:384
+msgid "Meta:"
+msgstr ""
+
+#: classes/class-settings.php:389
+msgid "Display Game"
+msgstr ""
+
+#: classes/class-settings.php:395
+msgid "Display Tournament"
+msgstr ""
+
+#: classes/class-settings.php:401
+msgid "Display Tournament Stage"
+msgstr ""
+
+#: classes/class-settings.php:413
+msgid "Display Match End Date"
+msgstr ""
+
+#: classes/class-settings.php:419
+msgid "Display Read More Button"
+msgstr ""
+
+#: classes/class-settings.php:435
+msgid "Number of Tournaments"
+msgstr ""
+
+#: classes/class-settings.php:442
+msgid "Display Tournament Title"
+msgstr ""
+
+#: classes/class-settings.php:448
+msgid "Display Tournament Date"
+msgstr ""
+
+#: classes/class-settings.php:454
+msgid "Display Tournament Game"
+msgstr ""
+
+#: classes/class-settings.php:460
+msgid "Display Tournament Total Prize Pool"
+msgstr ""
+
+#: classes/class-settings.php:476
+msgid "Number of Players"
+msgstr ""
+
+#: classes/class-settings.php:490
+msgid "Display Player Thumbnail"
+msgstr ""
+
+#: classes/class-settings.php:496
+msgid "Display Player Title"
+msgstr ""
+
+#: classes/class-settings.php:502
+msgid "Display Player Full Name"
+msgstr ""
+
+#: classes/class-settings.php:508
+msgid "Display Player Gender"
+msgstr ""
+
+#: classes/class-settings.php:514
+msgid "Display Player Country"
+msgstr ""
+
+#: classes/class-settings.php:520
+msgid "Display Player Age"
+msgstr ""
+
+#: classes/class-settings.php:536
+msgid "Number of Teams"
+msgstr ""
+
+#: classes/class-settings.php:550
+msgid "Display Team Thumbnail"
+msgstr ""
+
+#: classes/class-settings.php:556
+msgid "Display Team Title"
+msgstr ""
+
+#: classes/class-settings.php:562
+msgid "Display Team Country"
+msgstr ""
+
+#: classes/class-settings.php:568
+msgid "Display Team Founded Date"
+msgstr ""
+
+#: classes/class-settings.php:574
+msgid "Display Team Game"
+msgstr ""
+
+#: classes/class-settings.php:580
+msgid "Display Count of Team Players"
+msgstr ""
+
+#: classes/class-settings.php:586
+msgid "Player Roles"
+msgstr ""
+
+#: classes/class-settings.php:591
+msgid "Slug"
+msgstr ""
+
+#: classes/class-settings.php:596
+#: templates/teams/single-parts/players.php:28
+msgid "Name"
+msgstr ""
+
+#: classes/class-settings.php:744
+msgid "-- Select Page --"
+msgstr ""
+
+#: classes/class-settings.php:763
+msgid "CyberPress Settings"
+msgstr ""
+
+#: templates/games/single-parts/content.php:28
+#: templates/matches/single-parts/content.php:35
+#: templates/players/single-parts/content.php:52
+#: templates/teams/single-parts/content.php:53
+#: templates/tournaments/single-parts/content.php:37
+msgid "Edit"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: templates/games/single-parts/entry-content.php:24
+#: templates/matches/single-parts/entry-content.php:20
+#: templates/players/single-parts/entry-content.php:20
+#: templates/teams/single-parts/entry-content.php:20
+#: templates/tournaments/single-parts/entry-content.php:20
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: templates/global/blocks-pagination.php:31
+#: templates/global/pagination.php:14
+msgid "Previous page"
+msgstr ""
+
+#: templates/global/blocks-pagination.php:32
+#: templates/global/pagination.php:15
+msgid "Next page"
+msgstr ""
+
+#: templates/global/blocks-pagination.php:33
+#: templates/global/pagination.php:16
+msgid "Page"
+msgstr ""
+
+#: templates/global/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/global/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: templates/global/post-navigation.php:14
+msgid "Next"
+msgstr ""
+
+#: templates/global/post-navigation.php:15
+msgid "Next post:"
+msgstr ""
+
+#: templates/global/post-navigation.php:17
+msgid "Previous"
+msgstr ""
+
+#: templates/global/post-navigation.php:18
+msgid "Previous post:"
+msgstr ""
+
+#: templates/matches/loop/loop.php:103
+#: templates/matches/single-parts/participants.php:80
+msgid "VS"
+msgstr ""
+
+#. translators: %1$s - game url, %2$s - game title.
+#: templates/matches/loop/loop.php:159
+#: templates/matches/single-parts/participants.php:127
+#: templates/tournaments/loop/loop.php:65
+#: templates/tournaments/single-parts/info.php:44
+msgid "<strong>Game</strong>: <a href=\"%1$s\" class=\"cyberpress-game-inline-link\">%2$s</a>"
+msgstr ""
+
+#. translators: %1$s - tournament url, %2$s - tournament title.
+#: templates/matches/loop/loop.php:173
+#: templates/matches/single-parts/participants.php:141
+msgid "<strong>Tournament</strong>: <a href=\"%1$s\" class=\"cyberpress-tournament-inline-link\">%2$s</a>"
+msgstr ""
+
+#. translators: %s tournament stage name.
+#: templates/matches/loop/loop.php:185
+#: templates/matches/single-parts/participants.php:153
+msgid "<strong>Tournament Stage</strong>: %s"
+msgstr ""
+
+#. translators: %s start time.
+#: templates/matches/loop/loop.php:199
+msgid "<strong>Starts</strong>: %s"
+msgstr ""
+
+#. translators: %s end time.
+#: templates/matches/loop/loop.php:212
+msgid "<strong>Ends</strong>: %s"
+msgstr ""
+
+#: templates/matches/loop/loop.php:230
+msgid "Read More"
+msgstr ""
+
+#: templates/matches/single-parts/screenshots.php:18
+#: templates/tournaments/single-parts/screenshots.php:18
+msgid "Screenshots"
+msgstr ""
+
+#. translators: %s player name.
+#. translators: %s country.
+#: templates/players/loop/loop.php:63
+#: templates/players/single-parts/info.php:30
+msgid "<strong>Name</strong>: %s"
+msgstr ""
+
+#. translators: %s gender.
+#. translators: %s foundation date.
+#: templates/players/loop/loop.php:76
+#: templates/players/single-parts/info.php:67
+msgid "<strong>Gender</strong>: %s"
+msgstr ""
+
+#. translators: %s country.
+#: templates/players/loop/loop.php:89
+#: templates/players/single-parts/info.php:43
+#: templates/teams/loop/loop.php:63
+#: templates/teams/single-parts/info.php:30
+msgid "<strong>Country</strong>: %s"
+msgstr ""
+
+#. translators: %s player age.
+#. translators: %s foundation date.
+#: templates/players/loop/loop.php:100
+#: templates/players/single-parts/info.php:54
+msgid "<strong>Age</strong>: %s years old"
+msgstr ""
+
+#: templates/players/single-parts/games-stats.php:28
+msgid "Statistics"
+msgstr ""
+
+#: templates/players/single-parts/games-stats.php:48
+msgid "Wins"
+msgstr ""
+
+#: templates/players/single-parts/games-stats.php:52
+msgid "Draws"
+msgstr ""
+
+#: templates/players/single-parts/games-stats.php:56
+msgid "Losses"
+msgstr ""
+
+#. translators: %1$s - site url, %2$s - site url.
+#: templates/players/single-parts/info.php:80
+#: templates/teams/single-parts/info.php:68
+msgid "<strong>Site</strong>: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#. translators: %1$s - site url, %2$s - site url.
+#: templates/players/single-parts/info.php:96
+#: templates/teams/single-parts/info.php:84
+msgid "<strong>Twitch</strong>: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#. translators: %1$s - site url, %2$s - site url.
+#: templates/players/single-parts/info.php:112
+#: templates/teams/single-parts/info.php:100
+msgid "<strong>YouTube</strong>: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#. translators: %s foundation date.
+#: templates/teams/loop/loop.php:74
+#: templates/teams/single-parts/info.php:41
+msgid "<strong>Founded</strong>: %s"
+msgstr ""
+
+#. translators: %1$s - game url, %2$s - game title.
+#: templates/teams/loop/loop.php:88
+#: templates/teams/single-parts/info.php:55
+msgid "<strong>Main Game</strong>: <a href=\"%1$s\" class=\"cyberpress-game-inline-link\">%2$s</a>"
+msgstr ""
+
+#. translators: %s players count.
+#: templates/teams/loop/loop.php:101
+#: templates/teams/single-parts/info.php:115
+msgid "<strong>Players</strong>: %s"
+msgstr ""
+
+#: templates/teams/single-parts/players.php:29
+msgid "Role"
+msgstr ""
+
+#: templates/teams/single-parts/players.php:30
+msgid "Gender"
+msgstr ""
+
+#: templates/teams/single-parts/players.php:31
+msgid "Age"
+msgstr ""
+
+#. translators: %1s - start date, %2s - end date.
+#: templates/tournaments/loop/loop.php:51
+#: templates/tournaments/single-parts/info.php:30
+msgid "<strong>Dates</strong>: %1$1s %2$2s"
+msgstr ""
+
+#. translators: %s total prize pool.
+#: templates/tournaments/loop/loop.php:78
+#: templates/tournaments/single-parts/info.php:83
+msgid "<strong>Total Prize pool</strong>: %s"
+msgstr ""
+
+#. translators: %s organizer.
+#: templates/tournaments/single-parts/info.php:57
+msgid "<strong>Organizer</strong>: %s"
+msgstr ""
+
+#. translators: %s type.
+#: templates/tournaments/single-parts/info.php:70
+msgid "<strong>Type</strong>: %s"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:177
+msgid "500px"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:178
+msgid "Accusoft"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:179
+msgid "Acquisitions Incorporated"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:180
+msgid "ADN"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:181
+msgid "Adobe"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:182
+msgid "Adversal"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:183
+msgid "Airbnb"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:184
+msgid "Algolia"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:185
+msgid "Alipay"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:186
+#: vendor-plain/brand-svg-please/brand-svg-please.php:222
+msgid "Amazon Pay"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:187
+msgid "Amazon"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:188
+msgid "Amilia"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:189
+msgid "Android"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:190
+msgid "AngelList"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:191
+msgid "Angry Creative"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:192
+msgid "Angular"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:193
+msgid "App Store"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:194
+msgid "Apper"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:195
+#: vendor-plain/brand-svg-please/brand-svg-please.php:224
+msgid "Apple Pay"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:196
+msgid "Apple"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:197
+msgid "ArtStation"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:198
+msgid "Asymmetrik"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:199
+msgid "Atlassian"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:200
+msgid "Audible"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:201
+msgid "Autoprefixer"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:202
+msgid "Avianex"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:203
+msgid "Aviato"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:204
+msgid "Bandcamp"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:205
+msgid "Battle.net"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:207
+msgid "BIMobject"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:209
+msgid "Bitcoin"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:210
+msgid "Bity"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:211
+msgid "Black Tie"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:212
+msgid "BlackBerry"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:213
+msgid "Blogger"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:214
+msgid "Bluetooth"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:215
+msgid "Bootstrap"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:216
+msgid "BTC"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:217
+msgid "Buffer"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:218
+msgid "Büromöbel Experte"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:219
+msgid "Buy n Large"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:220
+msgid "BuySellAds"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:221
+msgid "Canadian Gold Maple Leaf"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:223
+msgid "Amex"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:225
+msgid "Diners Club"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:226
+msgid "Discover"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:227
+msgid "JCB"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:228
+msgid "Mastercard"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:230
+#: vendor-plain/brand-svg-please/brand-svg-please.php:498
+msgid "Stripe"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:231
+msgid "Visa"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:232
+msgid "Centercode"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:233
+msgid "CentOS"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:234
+msgid "Chrome"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:235
+msgid "Chromecast"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:236
+msgid "CloudScale"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:237
+msgid "Cloudsmith"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:238
+msgid "Cloudversify"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:239
+msgid "CodePen"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:240
+msgid "CodiePie"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:241
+msgid "Confluence"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:242
+msgid "Connect Develop"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:243
+msgid "Contao"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:244
+msgid "Cotton Bureau"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:245
+msgid "cPanel"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:246
+msgid "Critical Role"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:247
+msgid "CSS3"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:248
+msgid "Cuttlefish"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:249
+msgid "D&D Beyond"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:250
+msgid "D&D"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:251
+msgid "Dailymotion"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:252
+msgid "Dashcube"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:253
+msgid "Delicious"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:255
+msgid "deploy.dog"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:258
+msgid "Deskpro"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:259
+msgid "Dev"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:260
+msgid "DeviantArt"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:261
+msgid "DHL"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:262
+msgid "Diaspora"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:263
+msgid "Digg"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:264
+msgid "Digital Ocean"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:265
+msgid "Discord"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:266
+msgid "Discourse"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:267
+msgid "DocHub"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:268
+msgid "Docker"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:269
+msgid "Draft2Digital"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:272
+msgid "Drupal"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:273
+msgid "Dyalog"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:274
+msgid "Earlybirds"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:275
+msgid "eBay"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:276
+msgid "Edge"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:277
+msgid "Elementor"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:278
+msgid "Ello"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:279
+msgid "Ember"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:280
+msgid "Empire"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:281
+msgid "Envira"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:282
+msgid "Erlang"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:283
+msgid "Ethereum"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:284
+msgid "Etsy"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:285
+msgid "Evernote"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:286
+msgid "ExpeditedSSL"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:287
+msgid "Facebook Messenger"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:289
+msgid "Fantasy Flight Games"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:290
+msgid "FedEx"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:291
+msgid "Fedora"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:292
+msgid "Figma"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:293
+msgid "Firefox Browser"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:294
+msgid "Firefox"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:295
+msgid "First Order"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:296
+msgid "Firstdraft"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:298
+msgid "Flipboard"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:299
+msgid "Fly"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:300
+msgid "Font Awesome"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:301
+msgid "Fonticons"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:302
+msgid "Fort Awesome"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:303
+msgid "Forumbee"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:305
+msgid "freeCodeCamp"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:306
+msgid "FreeBSD"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:307
+msgid "Fulcrum"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:308
+msgid "Galactic Republic"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:309
+msgid "Galactic Senate"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:311
+msgid "Pocket"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:314
+msgid "GG"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:315
+msgid "Git"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:316
+msgid "GitHub"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:317
+msgid "GitKraken"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:318
+msgid "GitLab"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:319
+msgid "Gitter"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:320
+msgid "Glide"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:321
+msgid "Gofore"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:322
+msgid "Goodreads"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:323
+msgid "Google Drive"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:324
+msgid "Google Play"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:325
+msgid "Google Plus"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:326
+msgid "Google Wallet"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:327
+msgid "Google"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:328
+msgid "Gratipay"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:329
+msgid "Grav"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:330
+msgid "Gripfire"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:331
+msgid "Grunt"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:332
+msgid "Gulp"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:333
+msgid "Hacker News"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:334
+msgid "HackerRank"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:335
+msgid "HIPS"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:336
+msgid "HireAHelper"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:337
+msgid "Hornbill"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:338
+msgid "Hotjar"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:339
+msgid "Houzz"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:340
+msgid "HTML5"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:341
+msgid "HubSpot"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:342
+msgid "iDEAL"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:343
+msgid "IMDb"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:345
+msgid "Intercom"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:347
+msgid "Internet Explorer"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:350
+msgid "InVision"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:351
+msgid "IoxHost"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:352
+msgid "itch.io"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:353
+msgid "iTunes"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:354
+msgid "Java"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:355
+msgid "Jedi Order"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:356
+msgid "Jenkins"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:357
+msgid "Jira"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:358
+msgid "Joget"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:359
+msgid "Joomla"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:361
+msgid "JS"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:364
+msgid "JSFiddle"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:365
+msgid "Kaggle"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:366
+msgid "Keybase"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:367
+msgid "KeyCDN"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:368
+msgid "Kickstarter"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:369
+msgid "Korvue"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:370
+msgid "Laravel"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:371
+msgid "Last.fm"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:372
+msgid "Leanpub"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:373
+msgid "Less"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:374
+msgid "Line"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:375
+msgid "LinkedIn"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:376
+msgid "Linode"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:377
+msgid "Linux"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:378
+msgid "Lyft"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:379
+msgid "Magento"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:380
+msgid "Mailchimp"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:381
+msgid "Mandalorian"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:383
+msgid "Markdown"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:386
+msgid "Mastodon"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:387
+msgid "MaxCDN"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:388
+msgid "MDB"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:389
+msgid "MedApps"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:391
+msgid "Medrt"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:392
+msgid "Meetup"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:393
+msgid "Megaport"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:394
+msgid "Mendeley"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:395
+msgid "Micro.blog"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:396
+msgid "Microsoft"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:397
+msgid "Mix"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:398
+msgid "Mixcloud"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:399
+msgid "Mixer"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:400
+msgid "Mizuni"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:401
+msgid "MODX"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:402
+msgid "Monero"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:403
+msgid "Mapster"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:404
+msgid "Neos"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:405
+msgid "Nimblr"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:406
+msgid "Node.js"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:407
+msgid "Node"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:408
+msgid "npm"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:409
+msgid "NS8"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:410
+msgid "Nutritionix"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:415
+msgid "Old Republic"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:416
+msgid "OpenCart"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:417
+msgid "OpenID"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:418
+msgid "Opera"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:419
+msgid "OptinMonster"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:420
+msgid "ORCID"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:421
+msgid "OSI"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:422
+msgid "PAGE4"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:423
+msgid "PageLines"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:424
+msgid "PalFed"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:425
+msgid "Patreon"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:427
+msgid "Penny Arcade"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:428
+msgid "Periscope"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:429
+msgid "Phabricator"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:430
+msgid "Phoenix Framework"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:431
+msgid "Phoenix Squadron"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:432
+msgid "PHP"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:435
+msgid "PlayStation"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:438
+msgid "Product Hunt"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:439
+msgid "Pushed"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:440
+msgid "Python"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:442
+msgid "QQ"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:445
+msgid "QuinScape"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:446
+msgid "Quora"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:447
+msgid "R"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:448
+msgid "Raspberry Pi"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:449
+msgid "Ravelry"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:450
+msgid "React"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:451
+msgid "ReactEurope"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:452
+msgid "ReadMe"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:453
+msgid "Rebel"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:454
+msgid "Red River"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:455
+msgid "reddit"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:456
+msgid "Red Hat"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:457
+msgid "Renren"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:458
+msgid "Replyd"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:459
+msgid "ResearchGate"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:460
+msgid "Resolving"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:461
+msgid "Rev"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:462
+msgid "Rocket.Chat"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:463
+msgid "Rock RMS"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:464
+msgid "Safari"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:465
+msgid "Salesforce"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:466
+msgid "Sass"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:467
+msgid "SCHLIX"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:468
+msgid "Scribd"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:469
+msgid "Searchengin"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:470
+msgid "SellCast"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:471
+msgid "Sellsy"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:472
+msgid "ServiceStack"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:473
+msgid "Shirts In Bulk"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:474
+msgid "Shopify"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:475
+msgid "Shopware"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:476
+msgid "SimplyBuilt"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:477
+msgid "SISTRIX"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:478
+msgid "Sith"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:479
+msgid "Sketch"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:480
+msgid "SkyAtlas"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:483
+msgid "SlideShare"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:484
+msgid "Snapchat"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:486
+msgid "Sourcetree"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:487
+msgid "Speakap"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:488
+msgid "Speaker Deck"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:489
+msgid "Spotify"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:490
+msgid "Squarespace"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:491
+msgid "Stack Exchange"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:492
+msgid "Stack Overflow"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:493
+msgid "StackPath"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:494
+msgid "StayLinked"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:496
+msgid "Sticker Mule"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:497
+msgid "Strava"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:499
+msgid "Studio Vinari"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:500
+msgid "StumbleUpon"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:501
+msgid "Superpowers"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:502
+msgid "Supple"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:503
+msgid "SuSE"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:504
+msgid "Swift"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:505
+msgid "Symfony"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:506
+msgid "SeamSpeak"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:507
+msgid "Telegram"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:508
+msgid "Tencent Weibo"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:509
+msgid "The Red Yeti"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:510
+msgid "Themeisle"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:511
+msgid "ThinkPeaks"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:512
+msgid "TikTok"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:513
+msgid "Trade Federation"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:514
+msgid "Trello"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:515
+msgid "Tripadvisor"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:519
+msgid "TYPO3"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:520
+msgid "Uber"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:521
+msgid "Ubuntu"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:522
+msgid "UIkit"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:523
+msgid "Umbraco"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:524
+msgid "Uniregistry"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:525
+msgid "Unity"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:526
+msgid "Untappd"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:527
+msgid "UPS"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:528
+msgid "USPS"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:529
+msgid "us-Sunnah"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:530
+msgid "Vaadin"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:531
+msgid "Viacoin"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:532
+msgid "Viadeo"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:533
+msgid "Viber"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:535
+msgid "Vine"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:540
+msgid "VNV"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:541
+msgid "Vue.js"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:542
+msgid "Waze"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:544
+msgid "WeChat"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:547
+msgid "Weebly"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:549
+msgid "Sina Weibo"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:552
+msgid "Weixin"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:553
+msgid "WhatsApp"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:554
+msgid "WHMCS"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:555
+msgid "Wikipedia"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:556
+msgid "Windows"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:557
+msgid "WIX"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:558
+msgid "Wizards of the Coast"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:559
+msgid "Wolf Pack Battalion"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:561
+msgid "WPBeginner"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:562
+msgid "WPExplorer"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:563
+msgid "WPForms"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:564
+msgid "WPressr"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:565
+msgid "Xbox"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:566
+msgid "XING"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:567
+msgid "YCombinator"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:568
+msgid "Yahoo"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:569
+msgid "Yammer"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:570
+msgid "Yandex"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:571
+msgid "Yarn"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:572
+msgid "Yelp"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:573
+msgid "Yoast"
+msgstr ""
+
+#: vendor-plain/brand-svg-please/brand-svg-please.php:575
+msgid "Zhihu"
+msgstr ""

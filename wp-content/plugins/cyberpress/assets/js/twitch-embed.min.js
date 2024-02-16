@@ -1,0 +1,1 @@
+!function(){const{Twitch:t}=window;t&&document.querySelectorAll(".cyberpress-twitch").forEach((e=>{const c=e.getAttribute("data-channel");c&&new t.Embed(e,{width:854,height:480,channel:c,theme:"dark"})}))}();

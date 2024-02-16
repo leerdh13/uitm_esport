@@ -1,0 +1,114 @@
+/*
+Theme Name: Blog Card
+Theme URI: https://themeansar.com/free-themes/blog-card/
+Author: Themeansar
+Author URI: https://themeansar.com
+Description: Blog Card is a fast, clean, modern-looking Best Responsive News Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. Blog Card is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. Blog Card is SEO friendly, WPML,Gutenberg, translation and RTL ready. Live preview : https://demos.themeansar.com/blogarise/Blog Card/ and documentation at https://docs.themeansar.com/docs/blogarise/
+Version: 0.6
+Requires PHP: 7.0
+Requires at least: 5.4
+Tested up to: 6.4.2
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: blogarise
+Text Domain: blogcard
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+
+Blog Card WordPress Theme is child theme of Newsup, Copyright 2023 Themeansar
+Blog Card is distributed under the terms of the GNU General Public License v3
+
+Blog Card is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+p a {
+    text-decoration: underline;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-family: 'Heebo', sans-serif;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.navbar-wp .navbar-nav > li> a {
+    font-family: 'Nunito', sans-serif;
+}
+
+::-webkit-scrollbar-thumb:hover { 
+    background: var(--grady-color);
+}
+.site-title {
+    font-family: 'Heebo', sans-serif;
+}
+a:focus {
+    outline: 1px solid;
+} 
+.bs-masonry-columns.c2 {
+    column-gap: 1.5rem;
+    columns: 2;
+}
+.bs-masonry-columns div {
+  display: inline-block;
+  width: 100%; 
+}
+.bs-headfour .navbar-wp{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.list-blog.bs-blog-post {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	-moz-column-gap: 2rem;
+	column-gap: 2rem;
+	text-align: left;
+	padding: 45px;
+}
+.list-blog .bs-blog-thumb {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    min-width: 100%;
+}
+.navbar-wp .dropdown-menu{
+    box-shadow: 0 0 10px 0 #0000003a;
+}
+.bs-recent-blog-post .small-post .img-small-post.right{
+    border: 2px solid #000;
+    border-radius: 8px;
+}
+.bs-blog-meta .bs-author .auth img{
+    border: 2px solid #000;
+}
+.bs-blog-post .title{
+    display: -webkit-box;
+    max-height: 100%;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.bs-blog-post.single .bs-header .title{
+    display: block;
+    line-height: 1.2;
+}
+.comment-form-comment textarea#comment {
+    height: 280px;
+}
+@media (max-width: 991.98px) {
+    .bs-masonry-columns.c2{ 
+        columns: 1;
+    }
+}
+@media (min-width: 992px) {
+    #sidebar-right {
+        padding-right: unset;
+        padding-left: 20px;
+    }
+}
+@media (max-width: 767.98px) {
+    .list-blog.bs-blog-post { 
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .bs-headfour .navbar-wp {
+        height: auto;
+    }
+}

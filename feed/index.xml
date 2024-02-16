@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UiTM E-Sports Community</title>
+	<atom:link href="https://leerdh13.github.io/uitm_esport//feed/" rel="self" type="application/rss+xml" />
+	<link>https://leerdh13.github.io/uitm_esport/</link>
+	<description>Healthy Gaming</description>
+	<lastBuildDate>Mon, 12 Feb 2024 11:54:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://leerdh13.github.io/uitm_esport//wp-content/uploads/2024/02/cropped-cropped-299669733_415706383993165_2164639643099685753_n-removebg-preview-32x32.png</url>
+	<title>UiTM E-Sports Community</title>
+	<link>https://leerdh13.github.io/uitm_esport/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New Esport Online Community for UiTM Students</title>
+		<link>https://leerdh13.github.io/uitm_esport//new-esport-online-community-for-uitm-students/</link>
+					<comments>https://leerdh13.github.io/uitm_esport//new-esport-online-community-for-uitm-students/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Feb 2024 11:54:17 +0000</pubDate>
+				<category><![CDATA[E-Sports]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://leerdh13.github.io/uitm_esport//?p=302</guid>
+
+					<description><![CDATA[Introducing the Thriving UiTM Esports Hub! 🎮🔥 Are you a passionate gamer studying at Universiti Teknologi MARA (UiTM)? Look no further! We’re excited to announce the launch of our brand-new online community exclusively for UiTM students who share a love for esports. Whether you’re a seasoned pro or just starting out, our platform offers a space [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Introducing the Thriving UiTM Esports Hub!</strong> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f3ae.png" alt="🎮" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png" alt="🔥" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Are you a passionate gamer studying at Universiti Teknologi MARA (UiTM)? Look no further! We’re excited to announce the launch of our brand-new online community exclusively for UiTM students who share a love for esports. Whether you’re a seasoned pro or just starting out, our platform offers a space to connect, compete, and collaborate with fellow gamers. From organizing tournaments to discussing the latest game strategies, the UiTM Esports Hub is your go-to destination. Join us today and level up your gaming experience! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47e.png" alt="👾" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://leerdh13.github.io/uitm_esport//new-esport-online-community-for-uitm-students/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
